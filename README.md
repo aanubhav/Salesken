@@ -30,6 +30,3 @@ For example : Say there are 4 sentences as an input list -
 "People love traveling in winter"]
 
 Output : [["Football is played in Brazil" , "Cricket is played in India"], ["Traveling is good for health", "People love traveling in winter"]]
-
-
-All the best ...
