@@ -1,5 +1,5 @@
 fastai==1.0.58
 numpy==1.16.2
 Flask_RESTful==0.3.7
-Flask==1.0.2
+Flask==2.3.2
 scikit_learn==0.22.1
